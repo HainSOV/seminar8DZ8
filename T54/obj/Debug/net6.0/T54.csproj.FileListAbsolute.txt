@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\bin\Debug\net6.0\T54.exe
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\bin\Debug\net6.0\T54.deps.json
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\bin\Debug\net6.0\T54.runtimeconfig.json
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\bin\Debug\net6.0\T54.dll
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\bin\Debug\net6.0\T54.pdb
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.AssemblyInfo.cs
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.dll
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\refint\T54.dll
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.pdb
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\T54.genruntimeconfig.cache
+C:\Users\User\Desktop\Соболев М.Е\Учеба\домашка\DZ8\T54\obj\Debug\net6.0\ref\T54.dll
